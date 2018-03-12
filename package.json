@@ -1,0 +1,23 @@
+{
+  "name": "nodejsapiforfbdevcircles",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku-examples/node-ws-test.git"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.15.0",
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "4.6.2"
+  },
+  "scripts": {
+    "start": "node node.js",
+    "test": "mocha tests"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
